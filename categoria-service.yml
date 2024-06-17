@@ -1,5 +1,6 @@
 server:
-    port: ${PORT:8866}#eureka:
+    port: ${PORT:8866}
+#eureka:
 #   client:
 #      register-with-eureka: false
 #      service-url: defaultZone=http://localhost:8761/eureka/
